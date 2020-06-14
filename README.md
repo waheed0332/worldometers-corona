@@ -20,3 +20,29 @@ $ scrapy crawl worldometers -o data.csv
 ```
 
 You can eiter use -o data.json or data.csv to download data as json or csv.
+
+### Data Description
+
+Downloaded data will have following columns.
+
+| Column | Description |
+| ------ | ------ |
+| Country, Others |
+| State |
+| Continent |
+| Total Cases |
+| New Cases |
+| Total Deaths |
+| New Deaths |
+| Total Recovered |
+| New Recovered |
+| Active Cases |
+| Serious, Critical |
+| Total Cases / 1M Polulation |
+| Deaths / 1M Population |
+| Total Tests |
+| Tests / 1M Population |
+| Population |
+| 1 Case ever X People |
+| 1 Death ever X People |
+| 1 Test ever X People |
