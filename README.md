@@ -25,8 +25,8 @@ You can eiter use -o data.json or data.csv to download data as json or csv.
 
 Downloaded data will have following columns.
 
-| Column | Description |
-| ------ | ------ |
+| Column |
+| ------ |
 | Country, Others |
 | State |
 | Continent |
